@@ -1,6 +1,4 @@
-### Hi! 👋 I'm **Felipe**
-
-<a href="https://twitter.com/Felip3ML">
+### Hi! 👋 I'm **Felipe** <a href="https://twitter.com/Felip3ML">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
