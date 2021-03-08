@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm **Felipe**
 
 - 🖥️  Working at the [Department of Computer Arquitecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
-- 🌱  I’m learning **SYCL**
+- 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
 - 🤓  Interested on Branch and Bound and optimization algorithms
 - 🎾  I love sports and teamwork
