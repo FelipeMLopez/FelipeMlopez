@@ -1,5 +1,9 @@
 ### Hi! 👋 I'm **Felipe**
 
+<a href="#FelipeMLopez-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&show_icons=true&count_private=true&include_all_commits=true" alt="FelipeMLopez" align="right" />
+</a>
+
 - 🖥️  Working at the [Department of Computer Arquitecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
