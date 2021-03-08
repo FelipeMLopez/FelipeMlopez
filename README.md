@@ -10,9 +10,15 @@
 - 🤓  Interested on Branch and Bound and optimization algorithms
 - 🎾  I love sports and teamwork
 
-<a href="https://twitter.com/Felip3ML"> <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
-<a href="https://www.hackerrank.com/felipeml"> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
+<p align="left"> 
+  <a href="https://twitter.com/Felip3ML"> 
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
+  </a>
+  <a href="https://www.hackerrank.com/felipeml"> 
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
+  </a>
+</p>
 
 <!--
 **FelipeMLopez/FelipeMlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
