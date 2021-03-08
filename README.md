@@ -1,5 +1,9 @@
 ### Hi! 👋 I'm **Felipe**
 
+<a href="https://twitter.com/Felip3ML">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+
 <a href="#FelipeMLopez-title">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&include_all_commits=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
