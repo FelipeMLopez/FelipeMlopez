@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm **Felipe**
 
-<a href="#FelipeMLopez-title">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
 
