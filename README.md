@@ -4,10 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
 
-<a href="#FelipeMLopez-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMLopez" alt="FelipeMLopez" align="right" />
-</a>
-
 - 🖥️  Working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
@@ -23,6 +19,8 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMLopez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FelipeMLopez/FelipeMlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
