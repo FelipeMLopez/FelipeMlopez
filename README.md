@@ -1,15 +1,17 @@
 ## Hi there! 👋 I'm Felipe Muñoz
 
-
 ![](https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical)
 
+## 👨‍💻 About Me
+
 - 📍  I'm based in [Málaga, Spain](https://www.openstreetmap.org/#map=13/36.7221/-4.4317)
-- 🖥️  I'm working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
+- 🏢  I'm working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
 - 🤓  Interested on Branch and Bound and optimization algorithms
 - 🎾  I love sports and teamwork
 
+## Social Media
 
 <p align="left"> 
   <a href="https://twitter.com/Felip3ML"> 
