@@ -4,6 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMLopez)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🖥️  Working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
