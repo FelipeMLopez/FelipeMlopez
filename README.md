@@ -1,9 +1,9 @@
-### Hi! 👋 I'm **Felipe**
+## Hi there! 👋 I'm Felipe Muñoz
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
-</a>
 
+![](https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical)
+
+- 📍  I'm based in [Málaga, Spain](https://www.openstreetmap.org/#map=13/36.7221/-4.4317)
 - 🖥️  I'm working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
