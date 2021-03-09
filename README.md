@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm **Felipe**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
+  <img src="https://github-readme-stats-felipemlopez.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
 
 - 🖥️  Working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
