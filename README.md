@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical" alt="FelipeMLopez" align="right" />
 </a>
 
-- 🖥️  Working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
+- 🖥️  I'm working at the [Department of Computer Architecture](https://www.ac.uma.es/~asenjo/research/) (University of Málaga)
 - 🌱  I’m learning **SYCL** and **C++20**
 - 👯  Looking for awesome projects!
 - 🤓  Interested on Branch and Bound and optimization algorithms
