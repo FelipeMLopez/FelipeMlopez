@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Felipe Muñoz
 
-[![](https://github-readme-stats-ioeyymi7d-felipemlopez.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-ioeyymi7d-felipemlopez.vercel.app/api?username=FelipeMLopez&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats-ioeyymi7d-felipemlopez.vercel.app/api/top-langs/?username=FelipeMLopez&theme=radical&layout=compact&langs_count=8&hide=csharp)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 About Me
