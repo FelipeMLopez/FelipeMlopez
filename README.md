@@ -16,10 +16,10 @@
 ## 👨‍💻 About Me
 
 - 📍  I'm based in [Málaga, Spain](https://www.openstreetmap.org/#map=13/36.7221/-4.4317)
-- 🏢  I'm working at the [Department of Computer Architecture](https://www.ac.uma.es/HPACuma/people/MunozF-en.html) (University of Málaga)
-- 🌱  I’m learning **SYCL** and **C++20**
+- 🏢  [Department of Computer Architecture](https://www.ac.uma.es/HPACuma/people/MunozF-en.html) (University of Málaga)
+- 🌱  Working on my Ph.D. in High Performance Computing
 - 👯  Looking for awesome projects!
-- 🤓  Interested on Quantum and Quantum-inspired optimization algorithms
+- 🤓  Interested on Quantum and Quantum-inspired algorithms
 - 🎾  I love sports and teamwork
 
 ## Social Media
@@ -27,6 +27,9 @@
 <p align="left"> 
   <a href="https://twitter.com/Felip3ML"> 
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-munoz-lopez/"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
 </p>
 
