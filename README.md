@@ -5,11 +5,11 @@
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-jrp0or94o-felipemlopez.vercel.app//api?username=FelipeMLopez&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Felipe M. Lopez's Github stats" />
+<img height=200 src="https://github-readme-stats-3l824ae9d-felipemlopez.vercel.app/api?username=FelipeMLopez&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Felipe M. Lopez's Github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-jrp0or94o-felipemlopez.vercel.app//api/top-langs/?username=FelipeMLopez&layout=compact&count_private=true&langs_count=8&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Felipe M. Lopez's Language stats" />
+<img height=200 src="https://github-readme-stats-3l824ae9d-felipemlopez.vercel.app/api/top-langs/?username=FelipeMLopez&layout=compact&count_private=true&langs_count=8&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Felipe M. Lopez's Language stats" />
 </a>
 </div>
 
