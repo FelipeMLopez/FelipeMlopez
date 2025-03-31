@@ -16,10 +16,10 @@
 ## 👨‍💻 About Me
 
 - 📍  I'm based in [Málaga, Spain](https://www.openstreetmap.org/#map=13/36.7221/-4.4317)
-- 🏢  [Department of Computer Architecture](https://www.ac.uma.es/HPACuma/people/MunozF-en.html) (University of Málaga)
-- 🌱  Working on my Ph.D. in High Performance Computing
+- 🧑‍🎓  Phd in Machatronic Engineering (Computer Architecture)
+- 🏢  [INNOVA IRV Microelectronics](https://innovairv.com/innova-irv-microelectronics/) 
+- 🌱  Working on RISC-V architectures and chip design.
 - 👯  Looking for awesome projects!
-- 🤓  Interested on Quantum and Quantum-inspired algorithms
 - 🎾  I love sports and teamwork
 
 ## Social Media
